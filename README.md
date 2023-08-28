@@ -6,6 +6,8 @@
 
 This project is a URL shortener application built using Django for the backend and React for the frontend. It allows users to shorten long URLs and access them via the generated short URLs. The application also features jwt based user authentication, private routes.
 
+#### Project snippets/images can be viewed in the images directory in the root.
+
 ## Homepage
 
 Homepage of this application contains link to url-shortener, jwt token details (for project demonstration), logout feature.
