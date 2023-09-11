@@ -71,7 +71,7 @@ JWT token pair
 ### Backend:
 1. Activate the virtual environment:
    ```bash
-   source venv/bin/activate
+   venv/Scripts/activate
    ```
 
 2. Run the backend server:
